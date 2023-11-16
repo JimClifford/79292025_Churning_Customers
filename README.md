@@ -36,6 +36,10 @@ The final model is evaluated, and accuracy and AUC scores are calculated. The in
 
 ## Deployment
 The trained and optimized model is saved(Using pickle), and a Python script using the Streamlit library is created for deploying the model as a web application.
+
+## Link to Video Demonstration
+https://drive.google.com/file/d/1C6EYFZ_FNELADs2-jWMe_K1qaXvV0fbf/view?usp=sharing
+
 ## Requirements
 Ensure the following packages are installed in your Python environment:
 
